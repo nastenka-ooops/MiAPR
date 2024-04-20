@@ -1,0 +1,134 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93646DC2-B01A-4D17-B061-9A3BC4A54757}|Lab7\\Lab8.csproj|d:\\2course\\4 semestr\\miapr\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u04308\\lab7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{93646DC2-B01A-4D17-B061-9A3BC4A54757}|Lab7\\Lab8.csproj|solutionrelative:lab7\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|d:\\2course\\4 semestr\\miapr\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u04308\\syntax\\grammarsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|solutionrelative:syntax\\grammarsyntax.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|d:\\2course\\4 semestr\\miapr\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u043B\u0430\u0431\u04308\\syntax\\terminalelementcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|solutionrelative:syntax\\terminalelementcreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\syntax\\leftrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|solutionrelative:syntax\\leftrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\syntax\\grammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|solutionrelative:syntax\\grammar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\syntax\\elementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|solutionrelative:syntax\\elementtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\syntax\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CA5206-E317-41FB-AA72-EF1DD32D6974}|Syntax\\Syntax.csproj|solutionrelative:syntax\\element.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Lab7\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Lab7\\MainWindow.xaml",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Lab7\\MainWindow.xaml*",
+              "RelativeToolTip": "Lab7\\MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-04T17:44:59.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GrammarSyntax.cs",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\GrammarSyntax.cs",
+              "RelativeDocumentMoniker": "Syntax\\GrammarSyntax.cs",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\GrammarSyntax.cs",
+              "RelativeToolTip": "Syntax\\GrammarSyntax.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:44:27.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TerminalElementCreator.cs",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\TerminalElementCreator.cs",
+              "RelativeDocumentMoniker": "Syntax\\TerminalElementCreator.cs",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\TerminalElementCreator.cs",
+              "RelativeToolTip": "Syntax\\TerminalElementCreator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:34:16.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeftRule.cs",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\LeftRule.cs",
+              "RelativeDocumentMoniker": "Syntax\\LeftRule.cs",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\LeftRule.cs",
+              "RelativeToolTip": "Syntax\\LeftRule.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:34:10.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Grammar.cs",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\Grammar.cs",
+              "RelativeDocumentMoniker": "Syntax\\Grammar.cs",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\Grammar.cs",
+              "RelativeToolTip": "Syntax\\Grammar.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:33:56.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ElementType.cs",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\ElementType.cs",
+              "RelativeDocumentMoniker": "Syntax\\ElementType.cs",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\ElementType.cs",
+              "RelativeToolTip": "Syntax\\ElementType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:33:51.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Element.cs",
+              "DocumentMoniker": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\Element.cs",
+              "RelativeDocumentMoniker": "Syntax\\Element.cs",
+              "ToolTip": "D:\\2course\\4 semestr\\Miapr\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u043E\u0440\u0430\u0442\u043E\u0440\u043D\u044B\u0435\\\u041B\u0430\u0431\u04308\\Syntax\\Element.cs",
+              "RelativeToolTip": "Syntax\\Element.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-28T15:33:17.884Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
